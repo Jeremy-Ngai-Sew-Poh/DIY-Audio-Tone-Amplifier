@@ -1,1 +1,1 @@
-# DIY-Audio-Amplifier-with-Tone-Control-Dual-Input
+# DIY Audio Amplifier with Tone Control & Dual Input
