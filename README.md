@@ -25,3 +25,4 @@
 | 0805 Capacitor | 2.2nF | 2 |  |
 | 0805 Capacitor | 22nF | 4 |  |
 | 0805 Capacitor | 220nF | 2 |  |
+| 0805 LED | Warm White | 6 |  |
