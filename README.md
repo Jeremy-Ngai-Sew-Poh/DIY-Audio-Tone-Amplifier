@@ -9,10 +9,6 @@
 * `cad/`: 3D STL files.
 * `image/`: Project images.
 
-## PCB Schematics
-
-## PCB Layout
-
 ## Bill Of Materials (BOM)
 
 | Component | Variation | Quantity | Link |
@@ -31,3 +27,15 @@
 | 0805 Capacitor | 22nF | 4 | [AliExpress](https://s.click.aliexpress.com/e/_c38nTHDd) |
 | 0805 Capacitor | 220nF | 2 | [AliExpress](https://s.click.aliexpress.com/e/_c38nTHDd) |
 | 0805 LED | Warm White | 6 | [AliExpress](https://s.click.aliexpress.com/e/_c3y6gdeJ) |
+
+## PCB Schematics
+![PCB Schematics](https://github.com/Jeremy-Ngai-Sew-Poh/DIY-Audio-Tone-Amplifier/blob/main/images/PCB%20Schematics.png)
+
+## PCB Layout
+Top:
+
+![PCB Layout Top](https://github.com/Jeremy-Ngai-Sew-Poh/DIY-Audio-Tone-Amplifier/blob/main/images/PCB%20Layout%20Top.png)
+
+Bottom:
+
+![PCB Layout Bottom](https://github.com/Jeremy-Ngai-Sew-Poh/DIY-Audio-Tone-Amplifier/blob/main/images/PCB%20Layout%20Bottom.png)
