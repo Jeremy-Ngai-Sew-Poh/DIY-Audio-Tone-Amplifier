@@ -13,7 +13,7 @@
 
 | Component | Variation | Quantity | Link |
 | -------- | -------- | -------- | -------- |
-| HT8696 Module | 10W | 1 | [AliExpress](https://s.click.aliexpress.com/e/_c3eED1G7) |
+| HT8696 Module | 10W | 1 | [AliExpress](https://s.click.aliexpress.com/e/_c45hUW2p) |
 | Type-C Connector | 6 Pin | 1 | [AliExpress](https://s.click.aliexpress.com/e/_c3UOzwXl) |
 | MTS-102 Toggle Switch | SPDT ON-ON | 1 | [AliExpress](https://s.click.aliexpress.com/e/_c3D1ScVt) |
 | MTS-202 Toggle Switch | DPDT ON-ON | 2 | [AliExpress](https://s.click.aliexpress.com/e/_c33nnhHl) |
