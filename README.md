@@ -29,16 +29,16 @@
 | 0805 LED | Warm White | 6 | [AliExpress](https://s.click.aliexpress.com/e/_c3y6gdeJ) |
 
 ## PCB Schematics
-![PCB Schematics](https://github.com/Jeremy-Ngai-Sew-Poh/DIY-Audio-Tone-Amplifier/blob/main/images/PCB%20Schematics.png)
+![PCB Schematics](https://github.com/Jeremy-Ngai-Sew-Poh/DIY-Audio-Tone-Amplifier/blob/main/images/PCB%20Schematics%20v1.1.png)
 
 ## PCB Layout
 Top:
 
-![PCB Layout Top](https://github.com/Jeremy-Ngai-Sew-Poh/DIY-Audio-Tone-Amplifier/blob/main/images/PCB%20Layout%20Top.png)
+![PCB Layout Top](https://github.com/Jeremy-Ngai-Sew-Poh/DIY-Audio-Tone-Amplifier/blob/main/images/PCB%20Layout%20Top%20v1.1.png)
 
 Bottom:
 
-![PCB Layout Bottom](https://github.com/Jeremy-Ngai-Sew-Poh/DIY-Audio-Tone-Amplifier/blob/main/images/PCB%20Layout%20Bottom.png)
+![PCB Layout Bottom](https://github.com/Jeremy-Ngai-Sew-Poh/DIY-Audio-Tone-Amplifier/blob/main/images/PCB%20Layout%20Bottom%20v1.1.png)
 
 ## Revisions
 * **V1.0**: Initial prototype. Mismatched ground plane between `JACK_GND` and common ground, require solder bridge fix. 
