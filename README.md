@@ -41,6 +41,6 @@ Bottom:
 ![PCB Layout Bottom](https://github.com/Jeremy-Ngai-Sew-Poh/DIY-Audio-Tone-Amplifier/blob/main/images/PCB%20Layout%20Bottom.png)
 
 ## Revisions
-* **V1.0**: Initial prototype. Mismatched ground plane, require solder bridge fix. 
+* **V1.0**: Initial prototype. Mismatched ground plane between `JACK_GND` and common ground, require solder bridge fix. 
 * **V1.1**: Fixed ground plane net and routing. Working as it should! 
 
