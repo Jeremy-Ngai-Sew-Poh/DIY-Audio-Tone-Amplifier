@@ -24,12 +24,12 @@ The build uses a passive 2 channel Baxandall tone control circuit to alter bass 
 * Treble Turnover Frequency ($f_c$): ~7.2kHz
 
 ### Amplification
-The amplifier system is powered by the HT8697 Class D/AB stereo ready-made module capable of outputting ~10W at 5V with anti-clipping capability to reduce buzzing issues.
+The amplifier system is powered by the HT8696 Class D/AB stereo ready-made module capable of outputting ~10W at 5V with anti-clipping capability to reduce buzzing issues.
 
 ## Repository Structure
 * `easyeda/`: Schematics and PCB layout in EasyEDA Pro format.
 * `cad/`: 3D STL files.
-* `image/`: Project images.
+* `images/`: Project images.
 
 ## Bill Of Materials (BOM)
 
