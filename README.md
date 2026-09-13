@@ -1,5 +1,5 @@
 # DIY Desk Audio Amplifier with Tone Control & Dual Input
-This is a desk audio amplifier I designed and built to quickly switch between 2 audio sources and apply custom analogue Baxandall EQ to audio without software dependency. It is capable of delivering a maximum of 2x5W output compatible with 4-ohm speakers.
+This is a desk audio amplifier I designed and built to quickly switch between 2 audio sources and apply custom analogue Baxandall EQ to audio without software dependency. It is capable of delivering a maximum of 2x5W output compatible with 4 ohm and 8 ohm speakers.
 
 ![Hero Image](https://github.com/Jeremy-Ngai-Sew-Poh/DIY-Audio-Tone-Amplifier/blob/main/images/Hero%20Image.jpg)
 
