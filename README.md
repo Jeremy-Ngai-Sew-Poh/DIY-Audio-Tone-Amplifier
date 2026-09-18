@@ -66,5 +66,9 @@ Bottom:
 * **V1.0**: Initial prototype. Mismatched ground plane between `JACK_GND` and common ground, require solder bridge fix. 
 * **V1.1**: Fixed ground plane net and routing. Working as it should! 
 
+## Future Revision
+* Adding a built in voltage booster can supply the HT8696 Module with 8.5V, which unlock up to 9.5W per channel. A 4.5W increasement. 
+* Isolating the speaker ground and audio jack ground can fully eliminate speaker buzzing noise. 
+
 ## License
 This project is licensed under the GNU General Public License v2.0.
