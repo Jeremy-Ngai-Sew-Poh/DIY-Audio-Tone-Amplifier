@@ -71,4 +71,4 @@ Bottom:
 * Isolating the speaker ground and audio jack ground can fully eliminate speaker buzzing noise. 
 
 ## License
-This project is licensed under the GNU General Public License v2.0.
+This project is licensed under the GNU General Public License v3.0.
