@@ -70,5 +70,8 @@ Bottom:
 * Adding a built in voltage booster can supply the HT8696 Module with 8.5V, which unlock up to 9.5W per channel. A 4.5W increasement. 
 * Isolating the speaker ground and audio jack ground can fully eliminate speaker buzzing noise. 
 
+## Acknowledgements
+* Special thanks to [Hack Club](https://hackclub.com/) for supporting high school makers and open-source hardware projects!
+
 ## License
 This project is licensed under the GNU General Public License v3.0.
