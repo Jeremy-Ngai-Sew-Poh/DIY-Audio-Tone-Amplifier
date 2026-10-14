@@ -36,22 +36,23 @@ The amplifier system is powered by the HT8696 Class D/AB stereo ready-made modul
 
 ## Bill Of Materials (BOM)
 
-|Reference| Component | Variation | Quantity | Link |
-|--------| -------- | -------- | -------- | -------- |
-|U1| HT8696 Module | 10W | 1 | [AliExpress](https://s.click.aliexpress.com/e/_c45hUW2p) |
-|U4| Type-C Connector | 6 Pin | 1 | [AliExpress](https://s.click.aliexpress.com/e/_c3UOzwXl) |
-|SW1| MTS-102 Toggle Switch | SPDT ON-ON | 1 | [AliExpress](https://s.click.aliexpress.com/e/_c3D1ScVt) |
-|SW2, SW3| MTS-202 Toggle Switch | DPDT ON-ON | 2 | [AliExpress](https://s.click.aliexpress.com/e/_c33nnhHl) |
-|U2, U3| PJ320D 3.5mm Jack | SMT | 2 | [AliExpress](https://s.click.aliexpress.com/e/_c2RY3vNl) |
-|U5, U6| KF301 Screw Terminal | 2 Pin | 2 | [AliExpress](https://s.click.aliexpress.com/e/_c3UOZrux) |
-|VR1 - VR4| Slide Potentiometer | B100K, 75mm Length, 15mm Lever | 4 | [AliExpress](https://s.click.aliexpress.com/e/_c4K0umGf) |
-|R1, R2| 0805 Resistor | 5.1K | 2 | [AliExpress](https://s.click.aliexpress.com/e/_c4FGkatZ) |
-|R3 - R8| 0805 Resistor | 10K | 6 | [AliExpress](https://s.click.aliexpress.com/e/_c4FGkatZ) |
-|R9 - R14| 0805 Resistor | 510 | 6 | [AliExpress](https://s.click.aliexpress.com/e/_c4FGkatZ) |
-|C3, C7| 0805 Capacitor | 2.2nF | 2 | [AliExpress](https://s.click.aliexpress.com/e/_c38nTHDd) |
-|C1, C4, C5, C8| 0805 Capacitor | 22nF | 4 | [AliExpress](https://s.click.aliexpress.com/e/_c38nTHDd) |
-|C2, C6| 0805 Capacitor | 220nF | 2 | [AliExpress](https://s.click.aliexpress.com/e/_c38nTHDd) |
-|LED1 - LED6| 0805 LED | Warm White | 6 | [AliExpress](https://s.click.aliexpress.com/e/_c3y6gdeJ) |
+|Reference| Component | Variation | Quantity | Price | Link |
+|--------| -------- | -------- | -------- | -------- | -------- |
+|U1| HT8696 Module | 10W | 1 | $3.00 | [AliExpress](https://s.click.aliexpress.com/e/_c45hUW2p) |
+|U4| Type-C Connector | 6 Pin | 1 | $1.00 | [AliExpress](https://s.click.aliexpress.com/e/_c3UOzwXl) |
+|SW1| MTS-102 Toggle Switch | SPDT ON-ON | 1 | $1.30 | [AliExpress](https://s.click.aliexpress.com/e/_c3D1ScVt) |
+|SW2, SW3| MTS-202 Toggle Switch | DPDT ON-ON | 2 | $1.40 | [AliExpress](https://s.click.aliexpress.com/e/_c33nnhHl) |
+|U2, U3| PJ320D 3.5mm Jack | SMT | 2 | $1.75 | [AliExpress](https://s.click.aliexpress.com/e/_c2RY3vNl) |
+|U5, U6| KF301 Screw Terminal | 2 Pin | 2 | $1.52 | [AliExpress](https://s.click.aliexpress.com/e/_c3UOZrux) |
+|VR1 - VR4| Slide Potentiometer | B100K, 75mm Length, 15mm Lever | 4 | $3.50 | [AliExpress](https://s.click.aliexpress.com/e/_c4K0umGf) |
+|R1, R2| 0805 Resistor | 5.1K | 2 | $1.00 | [AliExpress](https://s.click.aliexpress.com/e/_c4FGkatZ) |
+|R3 - R8| 0805 Resistor | 10K | 6 | $1.00 | [AliExpress](https://s.click.aliexpress.com/e/_c4FGkatZ) |
+|R9 - R14| 0805 Resistor | 510 | 6 | $1.00 | [AliExpress](https://s.click.aliexpress.com/e/_c4FGkatZ) |
+|C3, C7| 0805 Capacitor | 2.2nF | 2 | $2.00 | [AliExpress](https://s.click.aliexpress.com/e/_c38nTHDd) |
+|C1, C4, C5, C8| 0805 Capacitor | 22nF | 4 | $2.00 | [AliExpress](https://s.click.aliexpress.com/e/_c38nTHDd) |
+|C2, C6| 0805 Capacitor | 220nF | 2 | $2.00 | [AliExpress](https://s.click.aliexpress.com/e/_c38nTHDd) |
+|LED1 - LED6| 0805 LED | Warm White | 6 | $2.50 | [AliExpress](https://s.click.aliexpress.com/e/_c3y6gdeJ) |
+
 
 ## PCB Schematics
 ![PCB Schematics](images/PCB%20Schematics%20v1.1.png)
@@ -74,7 +75,7 @@ Bottom:
 * Isolating the speaker ground and audio jack ground can fully eliminate speaker buzzing noise. 
 
 ## Acknowledgements
-* Special thanks to [Hack Club](https://hackclub.com/) for supporting high school makers and open-source hardware projects!
+* Thanks to Hack Club for supporting high school makers and hardware projects!
 
 ## License
 This project is licensed under the GNU General Public License v3.0.
